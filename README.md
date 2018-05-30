@@ -27,11 +27,11 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 Basic working knowledge of computer vision and OpenCV 
 ### Technical Requirements
 This course has the following software requirements:<br/>
-You will need:
-Anaconda 5.1
-Jupyter Notebook
-Python 3.6.4
-OpenCV 3.1.0
+You will need:<br/>
+Anaconda 5.1<br/>
+Jupyter Notebook<br/>
+Python 3.6.4<br/>
+OpenCV 3.1.0<br/>
 
 
 
