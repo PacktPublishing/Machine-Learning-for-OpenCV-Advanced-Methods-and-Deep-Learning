@@ -14,12 +14,14 @@ Train and tweak neural networks
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Master Logistic Regression and regularization techniques&nbsp; 
-<LI>Understand supervised and unsupervised machine learning algorithms 
-<LI>Implement OpenCV's functionalities in machine learning algorithms 
-<LI>Solve image segmentation problem using K-Means Clustering 
-<LI>Get to know the key elements of a neural network and deep learning and its ability to learn 
-<LI>Load models trained with popular deep learning libraries such as Caffe </LI></UL></DIV>
+<LI>Implement a Naïve Bayes classifier
+<LI>Discover hidden structures in your data using k-means clustering
+<LI>Implement k-means clustering and Expectation Maximization in OpenCV
+<LI>Implement a simple multi-layer perceptron in OpenCV
+<LI>Train and tweak neural networks
+<LI>Build an ensemble classifier from decision trees in OpenCV
+<LI>Combine different algorithms into a simple majority-vote classifier
+<LI>Learn to tweak the hyperparameters of a model </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
